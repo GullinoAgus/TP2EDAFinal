@@ -1,0 +1,12 @@
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\TP2EDA.vcxproj.CopyComplete
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\TP2EDA.exe
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\allegro-5.2.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\allegro_font-5.2.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\allegro_primitives-5.2.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\allegro_ttf-5.2.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\freetype.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\zlib1.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\bz2.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\libpng16.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\brotlidec.dll
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\brotlicommon.dll

@@ -1,0 +1,11 @@
+﻿  graphics.c
+  init.c
+  limpiador.c
+  main.c
+  parser.c
+  SenCosTable.c
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\SenCosTable.c(4,181): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\agust\source\repos\GullinoAgus\TP2EDA\SenCosTable.c(187,163): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  TP2EDA.vcxproj -> C:\Users\agust\source\repos\GullinoAgus\TP2EDA\Release\TP2EDA.exe
