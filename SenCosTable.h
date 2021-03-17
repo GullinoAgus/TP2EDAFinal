@@ -2,9 +2,10 @@
 
 #ifndef SENCOSTABLE_H
 #define SENCOSTABLE_H
-
-extern float sinT[3599];
-extern float cosT[3599];
+	
+//Tabla de senos y cosenos que van de 0 a 359,9 grados
+extern double sinT[3600];
+extern double cosT[3600];
 
 
 #endif // !SENCOSTABLE_H
